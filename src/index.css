@@ -1,0 +1,46 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;1,300;0,400;1,600;0,700;1,800;0,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4ade80; /* Light green color */
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #22c55e; /* Darker green on hover */
+}
+
+/* For Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #4ade80 #f1f1f1;
+}
+
+/* For Edge and IE */
+*::-ms-scrollbar {
+    width: 12px;
+}
+
+*::-ms-scrollbar-track {
+    background: #f1f1f1;
+}
+
+*::-ms-scrollbar-thumb {
+    background-color: #4ade80;
+    border-radius: 6px;
+}
