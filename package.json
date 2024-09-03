@@ -2,7 +2,7 @@
   "name": "fresh-cart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sofamo22.github.io/freshcart",
+  "homepage": "https://sofamo22.github.io/FreshCart",
   "type": "module",
   "scripts": {
     "dev": "vite",
