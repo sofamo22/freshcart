@@ -2,7 +2,7 @@
   "name": "fresh-cart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sofamo22.github.io/FreshCart",
+  "homepage": "https://freshcart-store.vercel.app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
