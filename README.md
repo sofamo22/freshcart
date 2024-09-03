@@ -585,7 +585,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/PEP0X/fresh-cart
+   git clone https://github.com/sofamo22/Fresh-Cart
    ```
 
 2. **Install dependencies**:
